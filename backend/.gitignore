@@ -1,0 +1,29 @@
+# Node modules and build output
+node_modules/
+dist/
+build/
+
+# Logs and temp files
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# dotenv & environment
+.env
+
+# Uploaded files (Multer, etc.)
+uploads/
+
+# Process manager files (e.g., PM2)
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs/editors
+.vscode/
+*.swp
