@@ -13,7 +13,7 @@ npm-debug.log*
 Thumbs.db
 
 # dotenv & environment
-.env
+# .env
 
 # Uploaded files (Multer, etc.)
 uploads/
